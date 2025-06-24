@@ -60,4 +60,4 @@ pytest main.py -v
 pytest main.py::TestUrbanRoutes::test4_add_credit_card -v
 
 Licencia
-Material educativo - TripleTen QA Automation © 2023
+Material educativo - TripleTen QA Automation © 2025
