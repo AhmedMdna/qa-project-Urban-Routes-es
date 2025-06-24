@@ -4,6 +4,9 @@
 [![Pytest](https://img.shields.io/badge/Pytest-Testing%20Framework-green)](https://docs.pytest.org/)
 [![Chrome](https://img.shields.io/badge/Chrome-Latest%20Stable-brightgreen)](https://www.google.com/chrome/)
 
+**Autor:** Ahmed José Medina Ortiz
+**Grupo:** QA Cohort 29
+
 ## Tecnologías Utilizadas
 | Componente       | Versión  | Uso                              |
 |------------------|----------|----------------------------------|
