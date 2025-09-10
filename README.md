@@ -7,6 +7,13 @@
 **Autor:** Ahmed José Medina Ortiz
 **Grupo:** QA Cohort 29
 
+## 🚀 Demostración de Ejecución de Pruebas
+
+Aquí puedes ver las pruebas en acción, interactuando con la aplicación web y validando sus funcionalidades.
+
+[![Demostración de Pruebas Automatizadas con Selenium y Pytest](https://img.youtube.com/vi/qCp7TrAIaz0/0.jpg)](https://www.youtube.com/watch?v=qCp7TrAIaz0)
+
+
 ## Tecnologías Utilizadas
 | Componente       | Versión  | Uso                              |
 |------------------|----------|----------------------------------|
