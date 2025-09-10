@@ -16,7 +16,7 @@
 | ChromeDriver     | Compatible | Controlador navegador          |
 
 ## Descripción del Proyecto
-Suite de pruebas automatizadas para el flujo de reserva de taxis en Urban Routes, verificando:
+Framework de Automatización de Pruebas para Aplicación Web Urban Routes para el flujo de reserva de taxis en Urban Routes, verificando:
 
 ```plaintext
 1. Configuración de rutas
